@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# vscode cache
+*.vscode
+
 # C extensions
 *.so
 Historial de ubicaciones.json
