@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+Historial de ubicaciones.json
 
 # Distribution / packaging
 .Python
